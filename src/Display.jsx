@@ -30,7 +30,7 @@ export default class Display extends Component {
             // transition to color page
             if (isFlashing) {
                 // flash 20 times
-                for (let i = 0; i < 40; i++) {
+                for (let i = 0; i < 41; i++) {
                     const id = setTimeout(() => {
                         if (i % 2 == 0) {
                             this.setState({ colorRGB: colorRGB })
@@ -67,8 +67,8 @@ export default class Display extends Component {
     render() {
         const displayingColor = this.state.displayingColor
         const colorRGB = this.state.colorRGB
-        const screenWidth = window.innerWidth
-        const screenHeight = window.innerHeight
+        const screenWidth = "100vw";
+        const screenHeight = "100vh";
         return (
             <div>
                 <div id="control" style={displayingColor ? { display: 'none' } : { display: 'flex', justifyContent: 'center' }}>
