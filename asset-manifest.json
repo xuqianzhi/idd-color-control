@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/idd-color-control/static/css/main.a617e044.chunk.css",
-    "main.js": "/idd-color-control/static/js/main.47e01928.chunk.js",
-    "main.js.map": "/idd-color-control/static/js/main.47e01928.chunk.js.map",
+    "main.js": "/idd-color-control/static/js/main.64c7d948.chunk.js",
+    "main.js.map": "/idd-color-control/static/js/main.64c7d948.chunk.js.map",
     "runtime-main.js": "/idd-color-control/static/js/runtime-main.4130152f.js",
     "runtime-main.js.map": "/idd-color-control/static/js/runtime-main.4130152f.js.map",
     "static/js/2.4d7492ed.chunk.js": "/idd-color-control/static/js/2.4d7492ed.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.4130152f.js",
     "static/js/2.4d7492ed.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.47e01928.chunk.js"
+    "static/js/main.64c7d948.chunk.js"
   ]
 }
