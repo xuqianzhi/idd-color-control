@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/idd-color-control/static/css/main.a617e044.chunk.css",
+    "main.js": "/idd-color-control/static/js/main.fdd574d7.chunk.js",
+    "main.js.map": "/idd-color-control/static/js/main.fdd574d7.chunk.js.map",
+    "runtime-main.js": "/idd-color-control/static/js/runtime-main.4130152f.js",
+    "runtime-main.js.map": "/idd-color-control/static/js/runtime-main.4130152f.js.map",
+    "static/js/2.4d7492ed.chunk.js": "/idd-color-control/static/js/2.4d7492ed.chunk.js",
+    "static/js/2.4d7492ed.chunk.js.map": "/idd-color-control/static/js/2.4d7492ed.chunk.js.map",
+    "static/js/3.bf789b64.chunk.js": "/idd-color-control/static/js/3.bf789b64.chunk.js",
+    "static/js/3.bf789b64.chunk.js.map": "/idd-color-control/static/js/3.bf789b64.chunk.js.map",
+    "index.html": "/idd-color-control/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/idd-color-control/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.4d7492ed.chunk.js.LICENSE.txt": "/idd-color-control/static/js/2.4d7492ed.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/idd-color-control/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4130152f.js",
+    "static/js/2.4d7492ed.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.fdd574d7.chunk.js"
+  ]
+}
